@@ -1,0 +1,14 @@
+{
+  "name": "4bs3nt-skills",
+  "description": "4bs3nt's personal skills for Claude Code",
+  "owner": {
+    "name": "4bs3nt"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "4bs3nt's personal skills for Claude Code"
+    }
+  ]
+}
